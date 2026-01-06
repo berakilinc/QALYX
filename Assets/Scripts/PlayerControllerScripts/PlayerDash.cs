@@ -7,7 +7,7 @@ public class PlayerDash : MonoBehaviour
 {
     public float dashSpeed = 10f;
     public float dashDuration = 0.2f;
-    public float dashCooldown = 1f;
+    public float dashCooldown = 0.5f;
 
     public CameraShakeMechanic cameraShakeMec;
 
@@ -77,9 +77,6 @@ public class PlayerDash : MonoBehaviour
             yield return null;
             dashCountDownTxt.text ="Ready";
         }
-
-        yield return new WaitForSeconds(dashCooldown);
-
         canDash = true;
     }
 
