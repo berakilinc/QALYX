@@ -196,3 +196,7 @@ MonoBehaviour:
   damageAmount: 1
   maxHealth: 2
   yPosDecreaser: 0.41
+  deathEffect: {fileID: 6737284916302298217, guid: 787b9503ffbdfef47bd88fc55c2be40a, type: 3}
+  knockbackForce: 1.4
+  knockbackDuration: 0.35
+  damageColor: {r: 0.6698113, g: 0.20536669, b: 0.20536669, a: 0.6862745}
