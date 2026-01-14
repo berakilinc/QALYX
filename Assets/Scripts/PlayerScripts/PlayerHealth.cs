@@ -20,7 +20,6 @@ public class PlayerHealth : MonoBehaviour
         {
             Debug.Log("Test x<=0");
         }
-
     }
 
 

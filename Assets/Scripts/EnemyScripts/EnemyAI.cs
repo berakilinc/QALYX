@@ -7,9 +7,7 @@ public class EnemyAI : MonoBehaviour
     public float moveSpeed = 3f;
     public int damageAmount = 10;
     public int maxHealth = 20;
-
     public float yPosDecreaser =0.44f;
-
     private int currentHealth;
     private Transform player;
     private Animator animator;

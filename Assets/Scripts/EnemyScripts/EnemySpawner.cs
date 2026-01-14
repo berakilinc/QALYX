@@ -3,11 +3,18 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
+public class EnemyGroup
+{
+    public string groupName;
+    public GameObject enemyPrefab;
+    public int enemyCount;
+}
+
+[System.Serializable]
 public class WaveData
 {
     public string waveName;
-    public GameObject enemyPrefab;
-    public int enemyCount;
+    public List<EnemyGroup> EnemyGroups;
     public float spawnRate = 1f;
 }
 
@@ -39,20 +46,20 @@ public class EnemySpawner : MonoBehaviour
         while (currentWaveIndex < waves.Count)
         {
             WaveData currentWave = waves[currentWaveIndex];
-
-            for (int i = 0; i < currentWave.enemyCount; i++)
+            foreach (EnemyGroup group in currentWave.EnemyGroups)
             {
-                SpawnEnemy(currentWave.enemyPrefab);
-                yield return new WaitForSeconds(currentWave.spawnRate);
-            }
+                for (int i = 0; i < group.enemyCount; i++)
+                {
+                    SpawnEnemy(group.enemyPrefab);
 
+                    yield return new WaitForSeconds(currentWave.spawnRate);
+                }
+            }
             while (enemiesAlive > 0)
             {
                 yield return new WaitForSeconds(0.5f);
             }
-
             yield return new WaitForSeconds(timeBetweenWaves);
-
             currentWaveIndex++;
         }
     }
@@ -67,7 +74,6 @@ public class EnemySpawner : MonoBehaviour
         Instantiate(prefab, spawnPos, Quaternion.identity);
         enemiesAlive++;
     }
-
     public void OnEnemyKilled()
     {
         enemiesAlive--;

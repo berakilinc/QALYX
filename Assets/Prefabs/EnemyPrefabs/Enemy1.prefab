@@ -168,7 +168,7 @@ Animator:
   m_GameObject: {fileID: 740205491335519936}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 0a4fce4493830994daf64e2fa913e63c, type: 2}
+  m_Controller: {fileID: 9100000, guid: 830e8a332ef404441a6c0de8066c975d, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -195,3 +195,4 @@ MonoBehaviour:
   moveSpeed: 0.4
   damageAmount: 1
   maxHealth: 2
+  yPosDecreaser: 0.41
