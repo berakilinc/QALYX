@@ -29,6 +29,9 @@ public class EnemySpawner : MonoBehaviour
 
     private Transform player;
     private int currentWaveIndex = 0;
+    
+    public UpgradeManager upgradeManager;
+    private bool isWaitingForUpgrade = false;
 
     void Start()
     {
@@ -59,9 +62,25 @@ public class EnemySpawner : MonoBehaviour
             {
                 yield return new WaitForSeconds(0.5f);
             }
+            if (upgradeManager != null)
+            {
+                isWaitingForUpgrade = true;
+
+                upgradeManager.OpenUpgradePanel();
+
+                while (isWaitingForUpgrade)
+                {
+                    yield return null; 
+                }
+            }
             yield return new WaitForSeconds(timeBetweenWaves);
             currentWaveIndex++;
         }
+    }
+
+    public void ResumeSpawner()
+    {
+        isWaitingForUpgrade = false;
     }
 
     void SpawnEnemy(GameObject prefab)
