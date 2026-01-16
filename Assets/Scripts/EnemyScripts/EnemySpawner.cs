@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 [System.Serializable]
 public class EnemyGroup
@@ -33,6 +34,9 @@ public class EnemySpawner : MonoBehaviour
     public UpgradeManager upgradeManager;
     private bool isWaitingForUpgrade = false;
 
+    public TMP_Text waveCounterText;
+    
+
     void Start()
     {
         GameObject p = GameObject.FindGameObjectWithTag("Player");
@@ -41,6 +45,7 @@ public class EnemySpawner : MonoBehaviour
             player = p.transform;
         }
 
+        UpdateWaveUI();
         StartCoroutine(StartWaveLoop());
     }
 
@@ -75,6 +80,15 @@ public class EnemySpawner : MonoBehaviour
             }
             yield return new WaitForSeconds(timeBetweenWaves);
             currentWaveIndex++;
+            UpdateWaveUI();
+        }
+    }
+
+    void UpdateWaveUI()
+    {
+        if (waveCounterText != null)
+        {
+            waveCounterText.text = "" + (currentWaveIndex + 1);
         }
     }
 

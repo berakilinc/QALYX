@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class PlayerHealth : MonoBehaviour
 {
@@ -9,12 +10,24 @@ public class PlayerHealth : MonoBehaviour
 
     public AudioClip damageSound;
     private AudioSource audioSource;
+    public GameObject gameOverPanel;
 
     void Start()
     {
         playerCurrentHealth = playerMaxHealth;
+        if (gameOverPanel != null) gameOverPanel.SetActive(false);
         audioSource = GetComponent<AudioSource>();
         UpdateUI();
+        if (gameOverPanel != null)
+        {
+            gameOverPanel.SetActive(false);
+        }
+    }
+
+    public void RestartGame() 
+    {
+        Time.timeScale = 1f;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     public void TakeDamage(int damage)
@@ -23,7 +36,7 @@ public class PlayerHealth : MonoBehaviour
         playerCurrentHealth -= damage;
         Debug.Log("New :" + playerCurrentHealth);
         UpdateUI();
-        
+
         if (audioSource != null && damageSound != null)
         {
             audioSource.PlayOneShot(damageSound);
@@ -32,8 +45,19 @@ public class PlayerHealth : MonoBehaviour
         if (playerCurrentHealth <= 0)
         {
             Debug.Log("Test x<=0");
+            GameOver();
         }
     }
+
+    void GameOver()
+    {
+        if (gameOverPanel != null)
+        {
+            gameOverPanel.SetActive(true);
+            Time.timeScale = 0f;
+        }
+    }
+
     public void UpdateUI()
     {
         if (healthDisplay != null)
