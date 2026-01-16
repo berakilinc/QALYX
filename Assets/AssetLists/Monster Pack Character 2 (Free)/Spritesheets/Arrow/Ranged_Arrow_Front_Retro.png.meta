@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: c515eb2465b43cf49b2235ee1d33ef30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4252794033113408014
+    second: Ranged_Arrow_Front_Retro_0
+  - first:
+      213: -466545198671198876
+    second: Ranged_Arrow_Front_Retro_1
+  - first:
+      213: -1775970387436644556
+    second: Ranged_Arrow_Front_Retro_2
+  - first:
+      213: 5955813624357532526
+    second: Ranged_Arrow_Front_Retro_3
+  - first:
+      213: 771793702255450255
+    second: Ranged_Arrow_Front_Retro_4
+  - first:
+      213: -1783225629573404058
+    second: Ranged_Arrow_Front_Retro_5
+  - first:
+      213: -8927920381382133336
+    second: Ranged_Arrow_Front_Retro_6
+  - first:
+      213: 7761106978657870681
+    second: Ranged_Arrow_Front_Retro_7
+  - first:
+      213: 2822517402216023959
+    second: Ranged_Arrow_Front_Retro_8
+  - first:
+      213: 9082787946695170846
+    second: Ranged_Arrow_Front_Retro_9
+  - first:
+      213: 5116464743656689317
+    second: Ranged_Arrow_Front_Retro_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 438
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fddf51fb5a0bf4c0800000000000000
+      internalID: -4252794033113408014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 316
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4650a891d9f7689f0800000000000000
+      internalID: -466545198671198876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 316
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d935975c7a57e0800000000000000
+      internalID: -1775970387436644556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 188
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e633344afec47a250800000000000000
+      internalID: 5955813624357532526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 188
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d1d67846f5ba00800000000000000
+      internalID: 771793702255450255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 57
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aa7e2ecb5b047e0800000000000000
+      internalID: -1783225629573404058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 56
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a97fbc17b7a91480800000000000000
+      internalID: -8927920381382133336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 57
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95325be4dadf4bb60800000000000000
+      internalID: 7761106978657870681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 57
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c17b7f989b2720800000000000000
+      internalID: 2822517402216023959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 57
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b17fcc38b8c0e70800000000000000
+      internalID: 9082787946695170846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Arrow_Front_Retro_10
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 57
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae877f7395510740800000000000000
+      internalID: 5116464743656689317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranged_Arrow_Front_Retro_0: -4252794033113408014
+      Ranged_Arrow_Front_Retro_1: -466545198671198876
+      Ranged_Arrow_Front_Retro_10: 5116464743656689317
+      Ranged_Arrow_Front_Retro_2: -1775970387436644556
+      Ranged_Arrow_Front_Retro_3: 5955813624357532526
+      Ranged_Arrow_Front_Retro_4: 771793702255450255
+      Ranged_Arrow_Front_Retro_5: -1783225629573404058
+      Ranged_Arrow_Front_Retro_6: -8927920381382133336
+      Ranged_Arrow_Front_Retro_7: 7761106978657870681
+      Ranged_Arrow_Front_Retro_8: 2822517402216023959
+      Ranged_Arrow_Front_Retro_9: 9082787946695170846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

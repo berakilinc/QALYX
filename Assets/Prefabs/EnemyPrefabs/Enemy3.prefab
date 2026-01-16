@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8128541409605743344}
   - component: {fileID: 8919595995475905933}
   m_Layer: 0
-  m_Name: Enemy2
+  m_Name: Enemy3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: -5532696704377510200, guid: 086fa07a92ef8154b90e1cf144b8141d, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.34206402, b: 0.2028302, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -193,8 +193,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAI
   moveSpeed: 0.8
-  damageAmount: 2
-  maxHealth: 5
+  damageAmount: 3
+  maxHealth: 8
   yPosDecreaser: 0.41
   deathEffect: {fileID: 6737284916302298217, guid: 787b9503ffbdfef47bd88fc55c2be40a, type: 3}
   deathSound: {fileID: 8300000, guid: 9dfd7ab958ae3ec49ba641af2c26de6f, type: 3}

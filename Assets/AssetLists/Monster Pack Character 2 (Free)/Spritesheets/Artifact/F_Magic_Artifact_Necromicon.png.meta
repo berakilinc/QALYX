@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: c97e2f1a79473ee4fbe300ec36829bcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1923597302506485010
+    second: F_Magic_Artifact_Necromicon_0
+  - first:
+      213: -3898520851492148722
+    second: F_Magic_Artifact_Necromicon_1
+  - first:
+      213: 3410820945578389252
+    second: F_Magic_Artifact_Necromicon_2
+  - first:
+      213: -8556984558144493145
+    second: F_Magic_Artifact_Necromicon_3
+  - first:
+      213: -7439643736278576863
+    second: F_Magic_Artifact_Necromicon_4
+  - first:
+      213: 2489335545743611797
+    second: F_Magic_Artifact_Necromicon_5
+  - first:
+      213: -2579253900634786474
+    second: F_Magic_Artifact_Necromicon_6
+  - first:
+      213: -702635729788669815
+    second: F_Magic_Artifact_Necromicon_7
+  - first:
+      213: 3315319260619702965
+    second: F_Magic_Artifact_Necromicon_8
+  - first:
+      213: 4863891475974427690
+    second: F_Magic_Artifact_Necromicon_9
+  - first:
+      213: 3988681115820359951
+    second: F_Magic_Artifact_Necromicon_10
+  - first:
+      213: 5441121502761746577
+    second: F_Magic_Artifact_Necromicon_11
+  - first:
+      213: 7568146247225980822
+    second: F_Magic_Artifact_Necromicon_12
+  - first:
+      213: -3615992678331426997
+    second: F_Magic_Artifact_Necromicon_13
+  - first:
+      213: 38952309593804273
+    second: F_Magic_Artifact_Necromicon_14
+  - first:
+      213: -5489665590838162177
+    second: F_Magic_Artifact_Necromicon_15
+  - first:
+      213: 5352739152069892044
+    second: F_Magic_Artifact_Necromicon_16
+  - first:
+      213: 1930776958560074576
+    second: F_Magic_Artifact_Necromicon_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 442
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea833de1720e45e0800000000000000
+      internalID: -1923597302506485010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 441
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a6b59d0fba5e9c0800000000000000
+      internalID: -3898520851492148722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 440
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f69a5249ba55f20800000000000000
+      internalID: 3410820945578389252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 440
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a96b4791eb7f3980800000000000000
+      internalID: -8556984558144493145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 441
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121d7a3507311c890800000000000000
+      internalID: -7439643736278576863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 442
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5971dc26d75eb8220800000000000000
+      internalID: 2489335545743611797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 315
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6557f1b2e36a43cd0800000000000000
+      internalID: -2579253900634786474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 314
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980f277c68cbf36f0800000000000000
+      internalID: -702635729788669815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 313
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b28f3e5d41620e20800000000000000
+      internalID: 3315319260619702965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 313
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2491830783008340800000000000000
+      internalID: 4863891475974427690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 314
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0108c68754aa5730800000000000000
+      internalID: 3988681115820359951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 315
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1908adfad2fb28b40800000000000000
+      internalID: 5441121502761746577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 187
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6973c120ae4770960800000000000000
+      internalID: 7568146247225980822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 186
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4754a141d961ddc0800000000000000
+      internalID: -3615992678331426997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 185
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd05805be26a8000800000000000000
+      internalID: 38952309593804273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 185
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc086a0b3ac0d3b0800000000000000
+      internalID: -5489665590838162177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_16
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 186
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7937616efb84a40800000000000000
+      internalID: 5352739152069892044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Artifact_Necromicon_17
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 187
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b7b730a6f7bca10800000000000000
+      internalID: 1930776958560074576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      F_Magic_Artifact_Necromicon_0: -1923597302506485010
+      F_Magic_Artifact_Necromicon_1: -3898520851492148722
+      F_Magic_Artifact_Necromicon_10: 3988681115820359951
+      F_Magic_Artifact_Necromicon_11: 5441121502761746577
+      F_Magic_Artifact_Necromicon_12: 7568146247225980822
+      F_Magic_Artifact_Necromicon_13: -3615992678331426997
+      F_Magic_Artifact_Necromicon_14: 38952309593804273
+      F_Magic_Artifact_Necromicon_15: -5489665590838162177
+      F_Magic_Artifact_Necromicon_16: 5352739152069892044
+      F_Magic_Artifact_Necromicon_17: 1930776958560074576
+      F_Magic_Artifact_Necromicon_2: 3410820945578389252
+      F_Magic_Artifact_Necromicon_3: -8556984558144493145
+      F_Magic_Artifact_Necromicon_4: -7439643736278576863
+      F_Magic_Artifact_Necromicon_5: 2489335545743611797
+      F_Magic_Artifact_Necromicon_6: -2579253900634786474
+      F_Magic_Artifact_Necromicon_7: -702635729788669815
+      F_Magic_Artifact_Necromicon_8: 3315319260619702965
+      F_Magic_Artifact_Necromicon_9: 4863891475974427690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

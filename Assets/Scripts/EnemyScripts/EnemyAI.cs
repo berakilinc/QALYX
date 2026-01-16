@@ -15,6 +15,7 @@ public class EnemyAI : MonoBehaviour
     private EnemySpawner spawner;
     
     public GameObject deathEffect;
+    public AudioClip deathSound;
     public float knockbackForce = 5f;
     public float knockbackDuration = 0.2f;
     public Color damageColor = Color.red;
@@ -111,6 +112,11 @@ public class EnemyAI : MonoBehaviour
         {
             Vector3 effectPosition = new Vector3(transform.position.x, transform.position.y + 0.44f, transform.position.z);
             Instantiate(deathEffect, effectPosition, Quaternion.identity);
+        }
+
+        if (deathSound != null)
+        {
+            AudioSource.PlayClipAtPoint(deathSound, transform.position);
         }
 
         Destroy(gameObject);

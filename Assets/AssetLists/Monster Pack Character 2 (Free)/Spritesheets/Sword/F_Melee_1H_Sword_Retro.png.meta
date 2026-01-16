@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: d669948d9ed3e2448b35b712566a0021
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7036920795877220663
+    second: F_Melee_1H_Sword_Retro_0
+  - first:
+      213: 3864153904081561576
+    second: F_Melee_1H_Sword_Retro_1
+  - first:
+      213: -8762936283876813440
+    second: F_Melee_1H_Sword_Retro_2
+  - first:
+      213: -5474975676424848389
+    second: F_Melee_1H_Sword_Retro_3
+  - first:
+      213: -7293710388310287147
+    second: F_Melee_1H_Sword_Retro_4
+  - first:
+      213: -1440137778954140869
+    second: F_Melee_1H_Sword_Retro_5
+  - first:
+      213: 4061042618130397335
+    second: F_Melee_1H_Sword_Retro_6
+  - first:
+      213: -1483047064959319859
+    second: F_Melee_1H_Sword_Retro_7
+  - first:
+      213: 7025152184280223663
+    second: F_Melee_1H_Sword_Retro_8
+  - first:
+      213: 3156453906441255909
+    second: F_Melee_1H_Sword_Retro_9
+  - first:
+      213: -8959070751532351324
+    second: F_Melee_1H_Sword_Retro_10
+  - first:
+      213: 8184659897974483843
+    second: F_Melee_1H_Sword_Retro_11
+  - first:
+      213: 5176502215976491684
+    second: F_Melee_1H_Sword_Retro_12
+  - first:
+      213: 1333924059880546626
+    second: F_Melee_1H_Sword_Retro_13
+  - first:
+      213: 7466725378571406479
+    second: F_Melee_1H_Sword_Retro_14
+  - first:
+      213: 6844612118414992528
+    second: F_Melee_1H_Sword_Retro_15
+  - first:
+      213: -4421716569548256769
+    second: F_Melee_1H_Sword_Retro_16
+  - first:
+      213: 8607878528015049315
+    second: F_Melee_1H_Sword_Retro_17
+  - first:
+      213: 8406750680652541660
+    second: F_Melee_1H_Sword_Retro_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 445
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cedd21c1d5d75e90800000000000000
+      internalID: -7036920795877220663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 447
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7683aa08b30a530800000000000000
+      internalID: 3864153904081561576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 447
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085142ab0ebc36680800000000000000
+      internalID: -8762936283876813440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 438
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbfac441aaf404b0800000000000000
+      internalID: -5474975676424848389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_4
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 434
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc503aab0987ca90800000000000000
+      internalID: -7293710388310287147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 440
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3381d9f15a930ce0800000000000000
+      internalID: -1440137778954140869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 314
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798726faeb8bb5830800000000000000
+      internalID: 4061042618130397335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 319
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc00aeb4d882b6be0800000000000000
+      internalID: -1483047064959319859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 318
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf0515d0ba5e7160800000000000000
+      internalID: 7025152184280223663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 315
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb3353ba1afdcb20800000000000000
+      internalID: 3156453906441255909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_10
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 305
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a082516e9cfaa380800000000000000
+      internalID: -8959070751532351324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 307
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b672220d0c59170800000000000000
+      internalID: 8184659897974483843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 186
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa1d42d651a6d740800000000000000
+      internalID: 5176502215976491684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 191
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241e6827ddc038210800000000000000
+      internalID: 1333924059880546626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 190
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c8421eb232f9760800000000000000
+      internalID: 7466725378571406479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 59
+        width: 19
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094a5771572fcfe50800000000000000
+      internalID: 6844612118414992528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_16
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 58
+        width: 12
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff90e9e0538e2a2c0800000000000000
+      internalID: -4421716569548256769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_17
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 56
+        width: 23
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362ac0c2ae3557770800000000000000
+      internalID: 8607878528015049315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Melee_1H_Sword_Retro_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde61930437caa470800000000000000
+      internalID: 8406750680652541660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      F_Melee_1H_Sword_Retro_0: -7036920795877220663
+      F_Melee_1H_Sword_Retro_1: 3864153904081561576
+      F_Melee_1H_Sword_Retro_10: -8959070751532351324
+      F_Melee_1H_Sword_Retro_11: 8184659897974483843
+      F_Melee_1H_Sword_Retro_12: 5176502215976491684
+      F_Melee_1H_Sword_Retro_13: 1333924059880546626
+      F_Melee_1H_Sword_Retro_14: 7466725378571406479
+      F_Melee_1H_Sword_Retro_15: 6844612118414992528
+      F_Melee_1H_Sword_Retro_16: -4421716569548256769
+      F_Melee_1H_Sword_Retro_17: 8607878528015049315
+      F_Melee_1H_Sword_Retro_18: 8406750680652541660
+      F_Melee_1H_Sword_Retro_2: -8762936283876813440
+      F_Melee_1H_Sword_Retro_3: -5474975676424848389
+      F_Melee_1H_Sword_Retro_4: -7293710388310287147
+      F_Melee_1H_Sword_Retro_5: -1440137778954140869
+      F_Melee_1H_Sword_Retro_6: 4061042618130397335
+      F_Melee_1H_Sword_Retro_7: -1483047064959319859
+      F_Melee_1H_Sword_Retro_8: 7025152184280223663
+      F_Melee_1H_Sword_Retro_9: 3156453906441255909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

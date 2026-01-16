@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: df302ffb43f693b48a1866e748d19b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5849558764417560836
+    second: F_Magic_Staff_Retro_0
+  - first:
+      213: -7861882021606146912
+    second: F_Magic_Staff_Retro_1
+  - first:
+      213: -8759350118465739563
+    second: F_Magic_Staff_Retro_2
+  - first:
+      213: 8758531100665333912
+    second: F_Magic_Staff_Retro_3
+  - first:
+      213: 878655955742769288
+    second: F_Magic_Staff_Retro_4
+  - first:
+      213: -5828363684448040103
+    second: F_Magic_Staff_Retro_5
+  - first:
+      213: -2142651401894266475
+    second: F_Magic_Staff_Retro_6
+  - first:
+      213: -1355249141799926980
+    second: F_Magic_Staff_Retro_7
+  - first:
+      213: -3435862039101251526
+    second: F_Magic_Staff_Retro_8
+  - first:
+      213: 856058785376688349
+    second: F_Magic_Staff_Retro_9
+  - first:
+      213: -5791516692916386660
+    second: F_Magic_Staff_Retro_10
+  - first:
+      213: -5479427368862966843
+    second: F_Magic_Staff_Retro_11
+  - first:
+      213: 4790470210380462895
+    second: F_Magic_Staff_Retro_12
+  - first:
+      213: -8650832328522969470
+    second: F_Magic_Staff_Retro_13
+  - first:
+      213: -6424179349141831886
+    second: F_Magic_Staff_Retro_14
+  - first:
+      213: -2866058624638501404
+    second: F_Magic_Staff_Retro_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 304
+        width: 17
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401b1e534becd2150800000000000000
+      internalID: 5849558764417560836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 434
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acb22494fbf4e290800000000000000
+      internalID: -7861882021606146912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 435
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e29de979807680800000000000000
+      internalID: -8759350118465739563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 435
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8984e51a1ad8c8970800000000000000
+      internalID: 8758531100665333912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 439
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88044d9bfec913c00800000000000000
+      internalID: 878655955742769288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 310
+        width: 20
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b00b6eb1e7d1fa0800000000000000
+      internalID: -5828363684448040103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 306
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5997998f6e5c342e0800000000000000
+      internalID: -2142651401894266475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 308
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33ccd00610313de0800000000000000
+      internalID: -1355249141799926980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 308
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30ee1eedad5150d0800000000000000
+      internalID: -3435862039101251526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_9
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 306
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8da310ee451eb00800000000000000
+      internalID: 856058785376688349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 176
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9449f7a04660afa0800000000000000
+      internalID: -5791516692916386660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 178
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb9e5ad6d925f3b0800000000000000
+      internalID: -5479427368862966843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 180
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b71dc764b2b7240800000000000000
+      internalID: 4790470210380462895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 180
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e4ceec4d112f780800000000000000
+      internalID: -8650832328522969470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 178
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f30013beab8d6a0800000000000000
+      internalID: -6424179349141831886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Magic_Staff_Retro_15
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 182
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed3afcadd6b938d0800000000000000
+      internalID: -2866058624638501404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      F_Magic_Staff_Retro_0: 5849558764417560836
+      F_Magic_Staff_Retro_1: -7861882021606146912
+      F_Magic_Staff_Retro_10: -5791516692916386660
+      F_Magic_Staff_Retro_11: -5479427368862966843
+      F_Magic_Staff_Retro_12: 4790470210380462895
+      F_Magic_Staff_Retro_13: -8650832328522969470
+      F_Magic_Staff_Retro_14: -6424179349141831886
+      F_Magic_Staff_Retro_15: -2866058624638501404
+      F_Magic_Staff_Retro_2: -8759350118465739563
+      F_Magic_Staff_Retro_3: 8758531100665333912
+      F_Magic_Staff_Retro_4: 878655955742769288
+      F_Magic_Staff_Retro_5: -5828363684448040103
+      F_Magic_Staff_Retro_6: -2142651401894266475
+      F_Magic_Staff_Retro_7: -1355249141799926980
+      F_Magic_Staff_Retro_8: -3435862039101251526
+      F_Magic_Staff_Retro_9: 856058785376688349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

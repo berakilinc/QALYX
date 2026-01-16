@@ -84,6 +84,8 @@ public class UpgradeManager : MonoBehaviour
     public void PlayerMaxHealthIncrease()
     {
         playerHealth.playerMaxHealth += 1;
+        playerHealth.playerCurrentHealth += 1;
+        playerHealth.UpdateUI();
         Debug.Log("PlayerMaxHealthIncrease");
         FinalizeUpgrade();
     }
@@ -105,6 +107,8 @@ public class UpgradeManager : MonoBehaviour
     public void PlayerHealthRegen()
     {
         playerHealth.playerCurrentHealth += playerRegenBooster;
+        if (playerHealth.playerCurrentHealth > playerHealth.playerMaxHealth) playerHealth.playerCurrentHealth = playerHealth.playerMaxHealth;
+        playerHealth.UpdateUI();
         Debug.Log("PlayerHealthRegen");
         FinalizeUpgrade();
     }

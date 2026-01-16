@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: dadc77660d492834e83096bfe7ae40b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9020414464222143116
+    second: Ranged_Bow_Front_Retro_0
+  - first:
+      213: -5554524509657405380
+    second: Ranged_Bow_Front_Retro_1
+  - first:
+      213: 2704793596298082812
+    second: Ranged_Bow_Front_Retro_2
+  - first:
+      213: -8529314572741462027
+    second: Ranged_Bow_Front_Retro_3
+  - first:
+      213: 6399077064064564531
+    second: Ranged_Bow_Front_Retro_4
+  - first:
+      213: -1768002524850343477
+    second: Ranged_Bow_Front_Retro_5
+  - first:
+      213: -3703030823825773750
+    second: Ranged_Bow_Front_Retro_6
+  - first:
+      213: 2553008860770111931
+    second: Ranged_Bow_Front_Retro_7
+  - first:
+      213: -3606575852460024687
+    second: Ranged_Bow_Front_Retro_8
+  - first:
+      213: -4916849674993514641
+    second: Ranged_Bow_Front_Retro_9
+  - first:
+      213: -1449029254869520605
+    second: Ranged_Bow_Front_Retro_10
+  - first:
+      213: 8315371610776390850
+    second: Ranged_Bow_Front_Retro_11
+  - first:
+      213: 2753124481794950805
+    second: Ranged_Bow_Front_Retro_12
+  - first:
+      213: 6543443635871804407
+    second: Ranged_Bow_Front_Retro_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 309
+        width: 16
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82a1cab923fe2d70800000000000000
+      internalID: 9020414464222143116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 433
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c386ba9336d5ae2b0800000000000000
+      internalID: -5554524509657405380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 303
+        width: 20
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9391af17b598520800000000000000
+      internalID: 2704793596298082812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 303
+        width: 20
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7be2a1699c1a980800000000000000
+      internalID: -8529314572741462027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 434
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dfaed9fa61ec850800000000000000
+      internalID: 6399077064064564531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 309
+        width: 14
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc13d48221bc677e0800000000000000
+      internalID: -1768002524850343477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 303
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bea81d5113c9cc0800000000000000
+      internalID: -3703030823825773750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_7
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 310
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb190ae480c1e6320800000000000000
+      internalID: 2553008860770111931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 53
+        width: 17
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c5e92ee5ed2fdc0800000000000000
+      internalID: -3606575852460024687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 55
+        width: 15
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67440c6547d3cbb0800000000000000
+      internalID: -4916849674993514641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 175
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f6a5ae19304ebe0800000000000000
+      internalID: -1449029254869520605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 175
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc1bb5c62266370800000000000000
+      internalID: 8315371610776390850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 50
+        width: 133
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596c1d72120153620800000000000000
+      internalID: 2753124481794950805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Bow_Front_Retro_13
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 181
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbede3715bfeca50800000000000000
+      internalID: 6543443635871804407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranged_Bow_Front_Retro_0: 9020414464222143116
+      Ranged_Bow_Front_Retro_1: -5554524509657405380
+      Ranged_Bow_Front_Retro_10: -1449029254869520605
+      Ranged_Bow_Front_Retro_11: 8315371610776390850
+      Ranged_Bow_Front_Retro_12: 2753124481794950805
+      Ranged_Bow_Front_Retro_13: 6543443635871804407
+      Ranged_Bow_Front_Retro_2: 2704793596298082812
+      Ranged_Bow_Front_Retro_3: -8529314572741462027
+      Ranged_Bow_Front_Retro_4: 6399077064064564531
+      Ranged_Bow_Front_Retro_5: -1768002524850343477
+      Ranged_Bow_Front_Retro_6: -3703030823825773750
+      Ranged_Bow_Front_Retro_7: 2553008860770111931
+      Ranged_Bow_Front_Retro_8: -3606575852460024687
+      Ranged_Bow_Front_Retro_9: -4916849674993514641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: a99a69f09c1a5bd4d87c5c2837c23935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3403507059049389281
+    second: B_Melee_Offhand_Retro_0
+  - first:
+      213: -1974246870480533793
+    second: B_Melee_Offhand_Retro_1
+  - first:
+      213: -3902743489467633609
+    second: B_Melee_Offhand_Retro_2
+  - first:
+      213: 5817784748255267593
+    second: B_Melee_Offhand_Retro_3
+  - first:
+      213: 8410473490993243896
+    second: B_Melee_Offhand_Retro_4
+  - first:
+      213: 7964460389267668207
+    second: B_Melee_Offhand_Retro_5
+  - first:
+      213: 8101019762131246361
+    second: B_Melee_Offhand_Retro_6
+  - first:
+      213: -1555239855857326922
+    second: B_Melee_Offhand_Retro_7
+  - first:
+      213: 8089876774262693625
+    second: B_Melee_Offhand_Retro_8
+  - first:
+      213: 300325567713683980
+    second: B_Melee_Offhand_Retro_9
+  - first:
+      213: -3265004026369656953
+    second: B_Melee_Offhand_Retro_10
+  - first:
+      213: 2373843330774781597
+    second: B_Melee_Offhand_Retro_11
+  - first:
+      213: -6832051037589271764
+    second: B_Melee_Offhand_Retro_12
+  - first:
+      213: -1589331581967821982
+    second: B_Melee_Offhand_Retro_13
+  - first:
+      213: 2972136243387609438
+    second: B_Melee_Offhand_Retro_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 307
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13a3d2cc5054c0d0800000000000000
+      internalID: -3403507059049389281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 307
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6c41a6ee01a94e0800000000000000
+      internalID: -1974246870480533793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 307
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73030d4597ba6d9c0800000000000000
+      internalID: -3902743489467633609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 307
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bc073976cecb050800000000000000
+      internalID: 5817784748255267593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 306
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6ed77541108b470800000000000000
+      internalID: 8410473490993243896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 306
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecf7f9c682778e60800000000000000
+      internalID: 7964460389267668207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 179
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d90487d8a9c6070800000000000000
+      internalID: 8101019762131246361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 179
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b42813579daa6ae0800000000000000
+      internalID: -1555239855857326922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 179
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe5c9e6014054070800000000000000
+      internalID: 8089876774262693625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 179
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0aaa8c3388fa2400800000000000000
+      internalID: 300325567713683980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 178
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7873402032060b2d0800000000000000
+      internalID: -3265004026369656953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 178
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec243aee591f020800000000000000
+      internalID: 2373843330774781597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 50
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b072177cdaf21a0800000000000000
+      internalID: -6832051037589271764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 50
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639f7ac85f81f9e0800000000000000
+      internalID: -1589331581967821982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Melee_Offhand_Retro_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 50
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51be239a262f3920800000000000000
+      internalID: 2972136243387609438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      B_Melee_Offhand_Retro_0: -3403507059049389281
+      B_Melee_Offhand_Retro_1: -1974246870480533793
+      B_Melee_Offhand_Retro_10: -3265004026369656953
+      B_Melee_Offhand_Retro_11: 2373843330774781597
+      B_Melee_Offhand_Retro_12: -6832051037589271764
+      B_Melee_Offhand_Retro_13: -1589331581967821982
+      B_Melee_Offhand_Retro_14: 2972136243387609438
+      B_Melee_Offhand_Retro_2: -3902743489467633609
+      B_Melee_Offhand_Retro_3: 5817784748255267593
+      B_Melee_Offhand_Retro_4: 8410473490993243896
+      B_Melee_Offhand_Retro_5: 7964460389267668207
+      B_Melee_Offhand_Retro_6: 8101019762131246361
+      B_Melee_Offhand_Retro_7: -1555239855857326922
+      B_Melee_Offhand_Retro_8: 8089876774262693625
+      B_Melee_Offhand_Retro_9: 300325567713683980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

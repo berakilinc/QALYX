@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: cffce7512d3f15a48818f6f0ecc17dd5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5791589393867029641
+    second: F_Move_Staff_Retro_0
+  - first:
+      213: 3996049380259770222
+    second: F_Move_Staff_Retro_1
+  - first:
+      213: 3457376519635492753
+    second: F_Move_Staff_Retro_2
+  - first:
+      213: 9142107795828677725
+    second: F_Move_Staff_Retro_3
+  - first:
+      213: 4561078820764718441
+    second: F_Move_Staff_Retro_4
+  - first:
+      213: -5853047430108260571
+    second: F_Move_Staff_Retro_5
+  - first:
+      213: -3225143319769186714
+    second: F_Move_Staff_Retro_6
+  - first:
+      213: -6339537720864918766
+    second: F_Move_Staff_Retro_7
+  - first:
+      213: 5928549454816000578
+    second: F_Move_Staff_Retro_8
+  - first:
+      213: -6998134638345630089
+    second: F_Move_Staff_Retro_9
+  - first:
+      213: -8346065379737541235
+    second: F_Move_Staff_Retro_10
+  - first:
+      213: 7513271659086365970
+    second: F_Move_Staff_Retro_11
+  - first:
+      213: 928520376519412986
+    second: F_Move_Staff_Retro_12
+  - first:
+      213: -1336183353570557989
+    second: F_Move_Staff_Retro_13
+  - first:
+      213: -8281367239317141034
+    second: F_Move_Staff_Retro_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 308
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c3d5a5edbdf5050800000000000000
+      internalID: 5791589393867029641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 434
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fad474db1d47730800000000000000
+      internalID: 3996049380259770222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 435
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f56ab60a11bff20800000000000000
+      internalID: 3457376519635492753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 434
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c92b47a9a4fde70800000000000000
+      internalID: 9142107795828677725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 307
+        width: 24
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9651d3895053c4f30800000000000000
+      internalID: 4561078820764718441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 308
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52752e28f5cc5cea0800000000000000
+      internalID: -5853047430108260571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 308
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66efe6bfc3dfd33d0800000000000000
+      internalID: -3225143319769186714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 307
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21338abf7007508a0800000000000000
+      internalID: -6339537720864918766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 307
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ab4af7150764250800000000000000
+      internalID: 5928549454816000578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 180
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4d07cf91a1ee90800000000000000
+      internalID: -6998134638345630089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 180
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85ee88a1c1dc2c80800000000000000
+      internalID: -8346065379737541235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 180
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2154ad454c0844860800000000000000
+      internalID: 7513271659086365970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_12
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 179
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcc629ec54c2ec00800000000000000
+      internalID: 928520376519412986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 179
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdff2afb15ce47de0800000000000000
+      internalID: -1336183353570557989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_Staff_Retro_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 179
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9c1f55f5ca21d80800000000000000
+      internalID: -8281367239317141034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      F_Move_Staff_Retro_0: 5791589393867029641
+      F_Move_Staff_Retro_1: 3996049380259770222
+      F_Move_Staff_Retro_10: -8346065379737541235
+      F_Move_Staff_Retro_11: 7513271659086365970
+      F_Move_Staff_Retro_12: 928520376519412986
+      F_Move_Staff_Retro_13: -1336183353570557989
+      F_Move_Staff_Retro_14: -8281367239317141034
+      F_Move_Staff_Retro_2: 3457376519635492753
+      F_Move_Staff_Retro_3: 9142107795828677725
+      F_Move_Staff_Retro_4: 4561078820764718441
+      F_Move_Staff_Retro_5: -5853047430108260571
+      F_Move_Staff_Retro_6: -3225143319769186714
+      F_Move_Staff_Retro_7: -6339537720864918766
+      F_Move_Staff_Retro_8: 5928549454816000578
+      F_Move_Staff_Retro_9: -6998134638345630089
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

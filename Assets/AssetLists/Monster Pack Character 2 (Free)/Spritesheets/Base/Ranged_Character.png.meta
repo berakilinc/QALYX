@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 3f11ea27c7f49614d9b375ab46d125a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8611363745267484845
+    second: Ranged_Character_0
+  - first:
+      213: -7227741333940133508
+    second: Ranged_Character_1
+  - first:
+      213: 850650255376616909
+    second: Ranged_Character_2
+  - first:
+      213: 1183980298350462654
+    second: Ranged_Character_3
+  - first:
+      213: 3122814421621504071
+    second: Ranged_Character_4
+  - first:
+      213: -8439107426579660733
+    second: Ranged_Character_5
+  - first:
+      213: 7555384363041377288
+    second: Ranged_Character_6
+  - first:
+      213: -7983632261179593960
+    second: Ranged_Character_7
+  - first:
+      213: -3274538468348064735
+    second: Ranged_Character_8
+  - first:
+      213: 568499363404972873
+    second: Ranged_Character_9
+  - first:
+      213: -8533943410887731664
+    second: Ranged_Character_10
+  - first:
+      213: -4461070332928157293
+    second: Ranged_Character_11
+  - first:
+      213: 2637807880440093022
+    second: Ranged_Character_12
+  - first:
+      213: -361650057948165485
+    second: Ranged_Character_13
+  - first:
+      213: -311705388153911636
+    second: Ranged_Character_14
+  - first:
+      213: 7923567898076280444
+    second: Ranged_Character_15
+  - first:
+      213: 194854975122950154
+    second: Ranged_Character_16
+  - first:
+      213: -7985301060033390472
+    second: Ranged_Character_17
+  - first:
+      213: -5632729439279961569
+    second: Ranged_Character_18
+  - first:
+      213: -7801068446446442511
+    second: Ranged_Character_19
+  - first:
+      213: 853104168098830256
+    second: Ranged_Character_20
+  - first:
+      213: 405997026482118261
+    second: Ranged_Character_21
+  - first:
+      213: 962175401598995808
+    second: Ranged_Character_22
+  - first:
+      213: 1832369987132742511
+    second: Ranged_Character_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranged_Character_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 431
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8885c83b5b18770800000000000000
+      internalID: 8611363745267484845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 431
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71271e0d87e1bb90800000000000000
+      internalID: -7227741333940133508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 431
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd81db76ed1ecb00800000000000000
+      internalID: 850650255376616909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 431
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb68d30fec75e6010800000000000000
+      internalID: 1183980298350462654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 431
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748773ccb27765b20800000000000000
+      internalID: 3122814421621504071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 431
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340cb51028442ea80800000000000000
+      internalID: -8439107426579660733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 303
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c4f9c4c0e1ad860800000000000000
+      internalID: 7555384363041377288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 303
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81baa0fe1c0743190800000000000000
+      internalID: -7983632261179593960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 303
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c03cebc908e82d0800000000000000
+      internalID: -3274538468348064735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 303
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9430ac2b827b3e700800000000000000
+      internalID: 568499363404972873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 303
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03650ccbea7519980800000000000000
+      internalID: -8533943410887731664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 303
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39998cffa281712c0800000000000000
+      internalID: -4461070332928157293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 175
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e599b53aa406b9420800000000000000
+      internalID: 2637807880440093022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 175
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a000b30392bfaf0800000000000000
+      internalID: -361650057948165485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 175
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6c288d9999cabf0800000000000000
+      internalID: -311705388153911636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 175
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76768eb50b26fd60800000000000000
+      internalID: 7923567898076280444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_16
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 175
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08cbe6419344b200800000000000000
+      internalID: 194854975122950154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 175
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878d82c6ef28e2190800000000000000
+      internalID: -7985301060033390472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 47
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a25df1b6684d1b0800000000000000
+      internalID: -5632729439279961569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 47
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f72d0d64990db390800000000000000
+      internalID: -7801068446446442511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 47
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b79fef88b5d6db00800000000000000
+      internalID: 853104168098830256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_21
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 47
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ed45ff42462a500800000000000000
+      internalID: 405997026482118261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_22
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 47
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d4def0e655a5d00800000000000000
+      internalID: 962175401598995808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranged_Character_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 47
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b52248bc2ed6910800000000000000
+      internalID: 1832369987132742511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranged_Character_0: 8611363745267484845
+      Ranged_Character_1: -7227741333940133508
+      Ranged_Character_10: -8533943410887731664
+      Ranged_Character_11: -4461070332928157293
+      Ranged_Character_12: 2637807880440093022
+      Ranged_Character_13: -361650057948165485
+      Ranged_Character_14: -311705388153911636
+      Ranged_Character_15: 7923567898076280444
+      Ranged_Character_16: 194854975122950154
+      Ranged_Character_17: -7985301060033390472
+      Ranged_Character_18: -5632729439279961569
+      Ranged_Character_19: -7801068446446442511
+      Ranged_Character_2: 850650255376616909
+      Ranged_Character_20: 853104168098830256
+      Ranged_Character_21: 405997026482118261
+      Ranged_Character_22: 962175401598995808
+      Ranged_Character_23: 1832369987132742511
+      Ranged_Character_3: 1183980298350462654
+      Ranged_Character_4: 3122814421621504071
+      Ranged_Character_5: -8439107426579660733
+      Ranged_Character_6: 7555384363041377288
+      Ranged_Character_7: -7983632261179593960
+      Ranged_Character_8: -3274538468348064735
+      Ranged_Character_9: 568499363404972873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

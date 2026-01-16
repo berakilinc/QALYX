@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 0451ec8150efa9c4aae52f31eb88fd0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8326683888138953186
+    second: F_Move_1H_Sword_Retro_0
+  - first:
+      213: -6494747105384295824
+    second: F_Move_1H_Sword_Retro_1
+  - first:
+      213: 7781170494546142108
+    second: F_Move_1H_Sword_Retro_2
+  - first:
+      213: -6110631294262647590
+    second: F_Move_1H_Sword_Retro_3
+  - first:
+      213: -4598768588659175342
+    second: F_Move_1H_Sword_Retro_4
+  - first:
+      213: -2243306566317682564
+    second: F_Move_1H_Sword_Retro_5
+  - first:
+      213: -1607826320935974199
+    second: F_Move_1H_Sword_Retro_6
+  - first:
+      213: 4906575077365131288
+    second: F_Move_1H_Sword_Retro_7
+  - first:
+      213: -5478740218513096832
+    second: F_Move_1H_Sword_Retro_8
+  - first:
+      213: -6423163695552958326
+    second: F_Move_1H_Sword_Retro_9
+  - first:
+      213: -5056243610649759692
+    second: F_Move_1H_Sword_Retro_10
+  - first:
+      213: 7855115472305884047
+    second: F_Move_1H_Sword_Retro_11
+  - first:
+      213: 3882121312969075428
+    second: F_Move_1H_Sword_Retro_12
+  - first:
+      213: 8837781411312522361
+    second: F_Move_1H_Sword_Retro_13
+  - first:
+      213: 4529627901580925901
+    second: F_Move_1H_Sword_Retro_14
+  - first:
+      213: -3014567399558537953
+    second: F_Move_1H_Sword_Retro_15
+  - first:
+      213: 741780029728252906
+    second: F_Move_1H_Sword_Retro_16
+  - first:
+      213: -5529207128480430209
+    second: F_Move_1H_Sword_Retro_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 433
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e5282de1da17c80800000000000000
+      internalID: -8326683888138953186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 434
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07292951be50ed5a0800000000000000
+      internalID: -6494747105384295824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 433
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c936c20a6554cfb60800000000000000
+      internalID: 7781170494546142108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 434
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4e610a63da23ba0800000000000000
+      internalID: -6110631294262647590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 436
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250debc7554ed20c0800000000000000
+      internalID: -4598768588659175342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 435
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c705550409c2ed0e0800000000000000
+      internalID: -2243306566317682564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 310
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca8610da7adfa9e0800000000000000
+      internalID: -1607826320935974199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 309
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81822266908a71440800000000000000
+      internalID: 4906575077365131288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 311
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f71e28cca97f3b0800000000000000
+      internalID: -5478740218513096832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 310
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80716876a65cd6a0800000000000000
+      internalID: -6423163695552958326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 310
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430f169a93d94d9b0800000000000000
+      internalID: -5056243610649759692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_11
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 310
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b877467e9f20d60800000000000000
+      internalID: 7855115472305884047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 56
+        width: 24
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaae7a04c010e530800000000000000
+      internalID: 3882121312969075428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 57
+        width: 24
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97455d77e5b16aa70800000000000000
+      internalID: 8837781411312522361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 183
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbdd66d3987cde30800000000000000
+      internalID: 4529627901580925901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 182
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d17d50cea1a26d0800000000000000
+      internalID: -3014567399558537953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 182
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36e65c1055b4a00800000000000000
+      internalID: 741780029728252906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Move_1H_Sword_Retro_17
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 182
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77cd51696f4443b0800000000000000
+      internalID: -5529207128480430209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      F_Move_1H_Sword_Retro_0: -8326683888138953186
+      F_Move_1H_Sword_Retro_1: -6494747105384295824
+      F_Move_1H_Sword_Retro_10: -5056243610649759692
+      F_Move_1H_Sword_Retro_11: 7855115472305884047
+      F_Move_1H_Sword_Retro_12: 3882121312969075428
+      F_Move_1H_Sword_Retro_13: 8837781411312522361
+      F_Move_1H_Sword_Retro_14: 4529627901580925901
+      F_Move_1H_Sword_Retro_15: -3014567399558537953
+      F_Move_1H_Sword_Retro_16: 741780029728252906
+      F_Move_1H_Sword_Retro_17: -5529207128480430209
+      F_Move_1H_Sword_Retro_2: 7781170494546142108
+      F_Move_1H_Sword_Retro_3: -6110631294262647590
+      F_Move_1H_Sword_Retro_4: -4598768588659175342
+      F_Move_1H_Sword_Retro_5: -2243306566317682564
+      F_Move_1H_Sword_Retro_6: -1607826320935974199
+      F_Move_1H_Sword_Retro_7: 4906575077365131288
+      F_Move_1H_Sword_Retro_8: -5478740218513096832
+      F_Move_1H_Sword_Retro_9: -6423163695552958326
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
